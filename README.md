@@ -100,8 +100,9 @@ It enables tracking of key metrics such as total sales, total cost, total profit
 
 ## 📸 Dashboard Preview
 
-`![Sales Dashboard](https://github.com/gaurav36122/superstore_sales_profit-powerbi-excel/blob/main/Dashboard-%20By%20Sales.png?raw=true)`
-`![Profit Dashboard](https://github.com/gaurav36122/superstore_sales_profit-powerbi-excel/blob/main/Dashborad%20by%20profit.png?raw=true)`
+![Sales Dashboard](https://github.com/gaurav36122/superstore_sales_profit-powerbi-excel/blob/main/Dashboard-%20By%20Sales.png?raw=true)
+
+![Profit Dashboard](https://github.com/gaurav36122/superstore_sales_profit-powerbi-excel/blob/main/Dashboard%20by%20profit.png?raw=true)
 
 ---
 
