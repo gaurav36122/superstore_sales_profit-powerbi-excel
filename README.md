@@ -4,6 +4,13 @@
 
 This **Superstore Power BI Dashboard** provides a comprehensive overview of sales and profit data to help businesses make data-driven decisions.
 It enables tracking of key metrics such as total sales, total cost, total profit, total orders, returns, and customer insights across categories, sub-categories, regions, and people.
+## 📸 Dashboard Preview
+
+![Sales Dashboard](https://github.com/gaurav36122/superstore_sales_profit-powerbi-excel/blob/main/Dashboard-%20By%20Sales.png?raw=true)
+
+![Profit Dashboard](https://github.com/gaurav36122/superstore_sales_profit-powerbi-excel/blob/main/Dashborad%20by%20profit.png?raw=true)
+
+---
 
 ---
 
@@ -98,13 +105,7 @@ It enables tracking of key metrics such as total sales, total cost, total profit
 
 ---
 
-## 📸 Dashboard Preview
 
-![Sales Dashboard](https://github.com/gaurav36122/superstore_sales_profit-powerbi-excel/blob/main/Dashboard-%20By%20Sales.png?raw=true)
-
-![Profit Dashboard](https://github.com/gaurav36122/superstore_sales_profit-powerbi-excel/blob/main/Dashborad%20by%20profit.png?raw=true)
-
----
 
 ## 💡 Conclusion
 
